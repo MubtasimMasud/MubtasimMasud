@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aakash
-- 👀 I’m interested in Electronics and PCB design and Rust
+- 👀 I’m interested in Electronics design and Rust
 - 🌱 I’m currently studying Electrical Engineering and Computer Science
 
 
